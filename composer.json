@@ -1,8 +1,18 @@
 {
+  "name": "blueimp/load-image",
+  "type": "package",
   "repositories": [
     {
-      "name": "blueimp/load-image"
+      "type": "package",
+      "package": {
+        "name": "blueimp/load-image",
+        "version": "master",
+        "source": {
+          "url": "https://github.com/irax-xx/JavaScript-Load-Image.git",
+          "type": "git",
+          "reference": "master"
+        }
+      }
     }
   ]
-  
 }
