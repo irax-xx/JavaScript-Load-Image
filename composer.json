@@ -1,5 +1,8 @@
 {
   "repositories": [
+    {
+      "name": "blueimp/load-image"
+    }
   ]
   
 }
