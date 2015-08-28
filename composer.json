@@ -31,11 +31,13 @@
       "url": "https://blueimp.net"
     }
   ],
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/irax-xx/JavaScript-Load-Image.git",
-    "reference": "master"
-  },
+  "repository": [
+    {
+      "type": "git",
+      "url": "git://github.com/irax-xx/JavaScript-Load-Image.git",
+      "reference": "master"
+    }
+  ],
   "bugs": "https://github.com/blueimp/JavaScript-Load-Image/issues",
   "license": "MIT",
   "devDependencies": {
