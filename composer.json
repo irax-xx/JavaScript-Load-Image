@@ -1,5 +1,5 @@
 {
-  "repository": [
+  "repositories": [
     {
       "type": "package",
       "package": {
@@ -28,23 +28,23 @@
           "exif",
           "thumbnail",
           "resizing"
-        ],
-        "homepage": "https://github.com/blueimp/JavaScript-Load-Image",
-        "author": {
-          "name": "Sebastian Tschan",
-          "url": "https://blueimp.net"
-        },
-        "maintainers": [
-          {
-            "name": "Sebastian Tschan",
-            "url": "https://blueimp.net"
-          }
-        ],
-        "bugs": "https://github.com/blueimp/JavaScript-Load-Image/issues",
-        "license": "MIT"
+        ]
       }
     }
   ],
+  "homepage": "https://github.com/blueimp/JavaScript-Load-Image",
+  "author": {
+    "name": "Sebastian Tschan",
+    "url": "https://blueimp.net"
+  },
+  "maintainers": [
+    {
+      "name": "Sebastian Tschan",
+      "url": "https://blueimp.net"
+    }
+  ],
+  "bugs": "https://github.com/blueimp/JavaScript-Load-Image/issues",
+  "license": "MIT",
   "devDependencies": {
     "grunt": "~0.4.5",
     "grunt-contrib-uglify": "~0.5.1",
